@@ -1,6 +1,6 @@
 {
   "name": "mongoose-soft-delete",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Mongoose plugin which provides soft delete functionality.",
   "main": "index.js",
   "scripts": {
