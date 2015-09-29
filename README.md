@@ -1,4 +1,4 @@
-# Mongoose Auto-Increment
+# Mongoose Soft Delete
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
