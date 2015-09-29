@@ -1,0 +1,30 @@
+{
+  "name": "mongoose-soft-delete",
+  "version": "0.0.0",
+  "description": "Mongoose plugin which provides soft delete functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test yet\" && exit 0"
+  },
+  "engineStrict": true,
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saamo/mongoose-soft-delete.git"
+  },
+  "keywords": [
+    "mongoose",
+    "plugin",
+    "soft",
+    "delete",
+    "remove"
+  ],
+  "author": "Samir Djellil <samir@djellil.com> (http://samirdjellil.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saamo/mongoose-soft-delete/issues"
+  },
+  "homepage": "https://github.com/saamo/mongoose-soft-delete#readme"
+}
