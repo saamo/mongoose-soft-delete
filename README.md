@@ -22,6 +22,12 @@ var softDelete = require('mongoose-soft-delete');
 mongoose.plugin(softDelete);
 ```
 
+You can also specify if `delete` and `deleteAt` fields should be excluded from query results by default.
+
+```js
+mongoose.plugin(softDelete, { select: false });
+```
+
 ## License
 
 MIT © [Samir Djellil](http://samirdjellil.com)
