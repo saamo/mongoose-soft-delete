@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"No test yet\" && exit 0"
   },
-  "engineStrict": true,
+  "engine-strict": true,
   "engines": {
     "node": ">=4.0.0"
   },
